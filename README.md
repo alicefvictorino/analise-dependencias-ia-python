@@ -91,8 +91,8 @@ pip install -r requirements.txt
 
 **Métricas:**
 - Nós: 26 | Arestas: 33  
-- Densidade: 0.0508 → conexões específicas  
-- Assortatividade: -0.198 → rede disassortativa, hub central `matplotlib`
+- Densidade: 0.0508 → baixa
+- Assortatividade: -0.157 → rede disassortativa, hub central `matplotlib`
 - Tamanho dos nós baseado no grau
 
 **Estrutura e Hubs:**
@@ -118,8 +118,8 @@ pip install -r requirements.txt
 #### Métricas do grafo:
 
 **Métricas:**
-- Nós: 35 | Arestas: 48  
-- Densidade: 0.04 → conexões especializadas  
+- Nós: 20 | Arestas: 26  
+- Densidade: 0.0684 → baixa
 - Assortatividade: -0.4758 → rede disassortativa, com principal hub sendo `torch`  
 - Tamanho dos nós baseado no grau   
 
@@ -156,7 +156,7 @@ Gráfico gerado utilizando a ferramenta de detecção de comunidades do Gephi.
 **Métricas:**
 - Nós: 45 | Arestas: 63  
 - Densidade: 0.0318 → ecossistemas especializados  
-- Assortatividade: -0.1021 → hubs centrais `TensorFlow`, `Torch`  
+- Assortatividade: -0.1021 → rede disassortativa, hubs centrais `TensorFlow`, `Torch`  
 - Tamanho dos nós baseado no grau   
  
 **Distribuição de grau:**  
@@ -196,9 +196,9 @@ Gráfico gerado utilizando a ferramenta de detecção de comunidades do Gephi.
 **Métricas:**
 - Nós: 74 | Arestas: 116  
 - Densidade: 0.0214 → baixa  
-- Assortatividade: -0.2097  
+- Assortatividade: -0.2097  → rede disassortativa,
 - Grau máximo: 21 (`TensorFlow`), hubs importantes: `numpy`, `matplotlib`
-- - Tamanho dos nós baseado no **grau de entrada**; nesse sentido, a biblioteca mais importante é a `numpy`, porque muitas outras bibliotecas dependem dela.
+- Tamanho dos nós baseado no **grau de entrada**; nesse sentido, a biblioteca mais importante é a `numpy`, porque muitas outras bibliotecas dependem dela.
 
 **Distribuição de grau:**  
 
