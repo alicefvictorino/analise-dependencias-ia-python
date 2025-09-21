@@ -1,0 +1,9 @@
+[
+    {
+        "key": "numpy",
+        "package_name": "numpy",
+        "installed_version": "2.2.6",
+        "required_version": "2.2.6",
+        "dependencies": []
+    }
+]

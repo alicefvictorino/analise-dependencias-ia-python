@@ -1,0 +1,24 @@
+[
+    {
+        "key": "plotly",
+        "package_name": "plotly",
+        "installed_version": "6.3.0",
+        "required_version": "6.3.0",
+        "dependencies": [
+            {
+                "key": "narwhals",
+                "package_name": "narwhals",
+                "installed_version": "2.5.0",
+                "required_version": ">=1.15.1",
+                "dependencies": []
+            },
+            {
+                "key": "packaging",
+                "package_name": "packaging",
+                "installed_version": "25.0",
+                "required_version": "Any",
+                "dependencies": []
+            }
+        ]
+    }
+]

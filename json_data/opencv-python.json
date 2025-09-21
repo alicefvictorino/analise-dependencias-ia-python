@@ -1,0 +1,17 @@
+[
+    {
+        "key": "opencv-python",
+        "package_name": "opencv-python",
+        "installed_version": "4.12.0.88",
+        "required_version": "4.12.0.88",
+        "dependencies": [
+            {
+                "key": "numpy",
+                "package_name": "numpy",
+                "installed_version": "2.2.6",
+                "required_version": ">=2,<2.3.0",
+                "dependencies": []
+            }
+        ]
+    }
+]

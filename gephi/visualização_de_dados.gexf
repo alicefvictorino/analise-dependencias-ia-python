@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-09-21">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="version" type="string" />
+      <attribute id="1" title="is_root" type="boolean" />
+      <attribute id="2" title="ecosystem" type="string" />
+      <attribute id="3" title="tema" type="string" />
+    </attributes>
+    <nodes>
+      <node id="matplotlib" label="matplotlib">
+        <attvalues>
+          <attvalue for="0" value="3.10.6" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="common" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="contourpy" label="contourpy">
+        <attvalues>
+          <attvalue for="0" value="1.3.3" />
+          <attvalue for="2" value="common" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="numpy" label="numpy">
+        <attvalues>
+          <attvalue for="0" value="2.3.3" />
+          <attvalue for="2" value="common" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="cycler" label="cycler">
+        <attvalues>
+          <attvalue for="0" value="0.12.1" />
+          <attvalue for="2" value="common" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="fonttools" label="fonttools">
+        <attvalues>
+          <attvalue for="0" value="4.60.0" />
+          <attvalue for="2" value="common" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="kiwisolver" label="kiwisolver">
+        <attvalues>
+          <attvalue for="0" value="1.4.9" />
+          <attvalue for="2" value="common" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="packaging" label="packaging">
+        <attvalues>
+          <attvalue for="0" value="25.0" />
+          <attvalue for="2" value="common" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="pillow" label="pillow">
+        <attvalues>
+          <attvalue for="0" value="11.3.0" />
+          <attvalue for="2" value="common" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="pyparsing" label="pyparsing">
+        <attvalues>
+          <attvalue for="0" value="3.2.5" />
+          <attvalue for="2" value="common" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="python-dateutil" label="python-dateutil">
+        <attvalues>
+          <attvalue for="0" value="2.9.0.post0" />
+          <attvalue for="2" value="common" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="six" label="six">
+        <attvalues>
+          <attvalue for="0" value="1.17.0" />
+          <attvalue for="2" value="common" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="seaborn" label="seaborn">
+        <attvalues>
+          <attvalue for="0" value="0.13.2" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="seaborn" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="pandas" label="pandas">
+        <attvalues>
+          <attvalue for="0" value="2.3.2" />
+          <attvalue for="2" value="seaborn" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="pytz" label="pytz">
+        <attvalues>
+          <attvalue for="0" value="2025.2" />
+          <attvalue for="2" value="seaborn" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="tzdata" label="tzdata">
+        <attvalues>
+          <attvalue for="0" value="2025.2" />
+          <attvalue for="2" value="seaborn" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="plotly" label="plotly">
+        <attvalues>
+          <attvalue for="0" value="6.3.0" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="plotly" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="narwhals" label="narwhals">
+        <attvalues>
+          <attvalue for="0" value="2.5.0" />
+          <attvalue for="2" value="common" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="altair" label="altair">
+        <attvalues>
+          <attvalue for="0" value="5.5.0" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="altair" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="Jinja2" label="Jinja2">
+        <attvalues>
+          <attvalue for="0" value="3.1.6" />
+          <attvalue for="2" value="altair" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="MarkupSafe" label="MarkupSafe">
+        <attvalues>
+          <attvalue for="0" value="3.0.2" />
+          <attvalue for="2" value="altair" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="jsonschema" label="jsonschema">
+        <attvalues>
+          <attvalue for="0" value="4.25.1" />
+          <attvalue for="2" value="altair" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="attrs" label="attrs">
+        <attvalues>
+          <attvalue for="0" value="25.3.0" />
+          <attvalue for="2" value="altair" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="jsonschema-specifications" label="jsonschema-specifications">
+        <attvalues>
+          <attvalue for="0" value="2025.9.1" />
+          <attvalue for="2" value="altair" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="referencing" label="referencing">
+        <attvalues>
+          <attvalue for="0" value="0.36.2" />
+          <attvalue for="2" value="altair" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="rpds-py" label="rpds-py">
+        <attvalues>
+          <attvalue for="0" value="0.27.1" />
+          <attvalue for="2" value="altair" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+      <node id="typing_extensions" label="typing_extensions">
+        <attvalues>
+          <attvalue for="0" value="4.15.0" />
+          <attvalue for="2" value="altair" />
+          <attvalue for="3" value="Visualização de Dados" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="matplotlib" target="contourpy" id="0" />
+      <edge source="matplotlib" target="cycler" id="1" />
+      <edge source="matplotlib" target="fonttools" id="2" />
+      <edge source="matplotlib" target="kiwisolver" id="3" />
+      <edge source="matplotlib" target="numpy" id="4" />
+      <edge source="matplotlib" target="packaging" id="5" />
+      <edge source="matplotlib" target="pillow" id="6" />
+      <edge source="matplotlib" target="pyparsing" id="7" />
+      <edge source="matplotlib" target="python-dateutil" id="8" />
+      <edge source="contourpy" target="numpy" id="9" />
+      <edge source="python-dateutil" target="six" id="10" />
+      <edge source="seaborn" target="matplotlib" id="11" />
+      <edge source="seaborn" target="numpy" id="12" />
+      <edge source="seaborn" target="pandas" id="13" />
+      <edge source="pandas" target="numpy" id="14" />
+      <edge source="pandas" target="python-dateutil" id="15" />
+      <edge source="pandas" target="pytz" id="16" />
+      <edge source="pandas" target="tzdata" id="17" />
+      <edge source="plotly" target="narwhals" id="18" />
+      <edge source="plotly" target="packaging" id="19" />
+      <edge source="altair" target="Jinja2" id="20" />
+      <edge source="altair" target="jsonschema" id="21" />
+      <edge source="altair" target="narwhals" id="22" />
+      <edge source="altair" target="packaging" id="23" />
+      <edge source="altair" target="typing_extensions" id="24" />
+      <edge source="Jinja2" target="MarkupSafe" id="25" />
+      <edge source="jsonschema" target="attrs" id="26" />
+      <edge source="jsonschema" target="jsonschema-specifications" id="27" />
+      <edge source="jsonschema" target="referencing" id="28" />
+      <edge source="jsonschema" target="rpds-py" id="29" />
+      <edge source="jsonschema-specifications" target="referencing" id="30" />
+      <edge source="referencing" target="attrs" id="31" />
+      <edge source="referencing" target="rpds-py" id="32" />
+    </edges>
+  </graph>
+</gexf>

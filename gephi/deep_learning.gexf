@@ -1,0 +1,398 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-09-21">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="version" type="string" />
+      <attribute id="1" title="is_root" type="boolean" />
+      <attribute id="2" title="ecosystem" type="string" />
+      <attribute id="3" title="tema" type="string" />
+    </attributes>
+    <nodes>
+      <node id="tensorflow" label="tensorflow">
+        <attvalues>
+          <attvalue for="0" value="2.20.0" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="absl-py" label="absl-py">
+        <attvalues>
+          <attvalue for="0" value="2.3.1" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="astunparse" label="astunparse">
+        <attvalues>
+          <attvalue for="0" value="1.6.3" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="six" label="six">
+        <attvalues>
+          <attvalue for="0" value="1.17.0" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="wheel" label="wheel">
+        <attvalues>
+          <attvalue for="0" value="0.45.1" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="flatbuffers" label="flatbuffers">
+        <attvalues>
+          <attvalue for="0" value="25.2.10" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="gast" label="gast">
+        <attvalues>
+          <attvalue for="0" value="0.6.0" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="google-pasta" label="google-pasta">
+        <attvalues>
+          <attvalue for="0" value="0.2.0" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="grpcio" label="grpcio">
+        <attvalues>
+          <attvalue for="0" value="1.75.0" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="typing_extensions" label="typing_extensions">
+        <attvalues>
+          <attvalue for="0" value="4.15.0" />
+          <attvalue for="2" value="common" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="h5py" label="h5py">
+        <attvalues>
+          <attvalue for="0" value="3.14.0" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="numpy" label="numpy">
+        <attvalues>
+          <attvalue for="0" value="2.2.6" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="keras" label="keras">
+        <attvalues>
+          <attvalue for="0" value="3.11.3" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="ml_dtypes" label="ml_dtypes">
+        <attvalues>
+          <attvalue for="0" value="0.5.3" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="namex" label="namex">
+        <attvalues>
+          <attvalue for="0" value="0.1.0" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="optree" label="optree">
+        <attvalues>
+          <attvalue for="0" value="0.17.0" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="packaging" label="packaging">
+        <attvalues>
+          <attvalue for="0" value="25.0" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="rich" label="rich">
+        <attvalues>
+          <attvalue for="0" value="14.1.0" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="markdown-it-py" label="markdown-it-py">
+        <attvalues>
+          <attvalue for="0" value="4.0.0" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="mdurl" label="mdurl">
+        <attvalues>
+          <attvalue for="0" value="0.1.2" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="Pygments" label="Pygments">
+        <attvalues>
+          <attvalue for="0" value="2.19.2" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="libclang" label="libclang">
+        <attvalues>
+          <attvalue for="0" value="18.1.1" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="opt_einsum" label="opt_einsum">
+        <attvalues>
+          <attvalue for="0" value="3.4.0" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="protobuf" label="protobuf">
+        <attvalues>
+          <attvalue for="0" value="6.32.1" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="requests" label="requests">
+        <attvalues>
+          <attvalue for="0" value="2.32.5" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="certifi" label="certifi">
+        <attvalues>
+          <attvalue for="0" value="2025.8.3" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="charset-normalizer" label="charset-normalizer">
+        <attvalues>
+          <attvalue for="0" value="3.4.3" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="idna" label="idna">
+        <attvalues>
+          <attvalue for="0" value="3.10" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="urllib3" label="urllib3">
+        <attvalues>
+          <attvalue for="0" value="2.5.0" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="setuptools" label="setuptools">
+        <attvalues>
+          <attvalue for="0" value="80.9.0" />
+          <attvalue for="2" value="common" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="tensorboard" label="tensorboard">
+        <attvalues>
+          <attvalue for="0" value="2.20.0" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="Markdown" label="Markdown">
+        <attvalues>
+          <attvalue for="0" value="3.9" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="pillow" label="pillow">
+        <attvalues>
+          <attvalue for="0" value="11.3.0" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="tensorboard-data-server" label="tensorboard-data-server">
+        <attvalues>
+          <attvalue for="0" value="0.7.2" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="Werkzeug" label="Werkzeug">
+        <attvalues>
+          <attvalue for="0" value="3.1.3" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="MarkupSafe" label="MarkupSafe">
+        <attvalues>
+          <attvalue for="0" value="3.0.2" />
+          <attvalue for="2" value="common" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="termcolor" label="termcolor">
+        <attvalues>
+          <attvalue for="0" value="3.1.0" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="wrapt" label="wrapt">
+        <attvalues>
+          <attvalue for="0" value="1.17.3" />
+          <attvalue for="2" value="tensorflow" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="torch" label="torch">
+        <attvalues>
+          <attvalue for="0" value="2.8.0" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="torch" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="filelock" label="filelock">
+        <attvalues>
+          <attvalue for="0" value="3.19.1" />
+          <attvalue for="2" value="torch" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="fsspec" label="fsspec">
+        <attvalues>
+          <attvalue for="0" value="2025.9.0" />
+          <attvalue for="2" value="torch" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="Jinja2" label="Jinja2">
+        <attvalues>
+          <attvalue for="0" value="3.1.6" />
+          <attvalue for="2" value="torch" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="networkx" label="networkx">
+        <attvalues>
+          <attvalue for="0" value="3.5" />
+          <attvalue for="2" value="torch" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="sympy" label="sympy">
+        <attvalues>
+          <attvalue for="0" value="1.14.0" />
+          <attvalue for="2" value="torch" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+      <node id="mpmath" label="mpmath">
+        <attvalues>
+          <attvalue for="0" value="1.3.0" />
+          <attvalue for="2" value="torch" />
+          <attvalue for="3" value="Deep Learning" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="tensorflow" target="absl-py" id="0" />
+      <edge source="tensorflow" target="astunparse" id="1" />
+      <edge source="tensorflow" target="flatbuffers" id="2" />
+      <edge source="tensorflow" target="gast" id="3" />
+      <edge source="tensorflow" target="google-pasta" id="4" />
+      <edge source="tensorflow" target="grpcio" id="5" />
+      <edge source="tensorflow" target="h5py" id="6" />
+      <edge source="tensorflow" target="keras" id="7" />
+      <edge source="tensorflow" target="libclang" id="8" />
+      <edge source="tensorflow" target="ml_dtypes" id="9" />
+      <edge source="tensorflow" target="numpy" id="10" />
+      <edge source="tensorflow" target="opt_einsum" id="11" />
+      <edge source="tensorflow" target="packaging" id="12" />
+      <edge source="tensorflow" target="protobuf" id="13" />
+      <edge source="tensorflow" target="requests" id="14" />
+      <edge source="tensorflow" target="setuptools" id="15" />
+      <edge source="tensorflow" target="six" id="16" />
+      <edge source="tensorflow" target="tensorboard" id="17" />
+      <edge source="tensorflow" target="termcolor" id="18" />
+      <edge source="tensorflow" target="typing_extensions" id="19" />
+      <edge source="tensorflow" target="wrapt" id="20" />
+      <edge source="astunparse" target="six" id="21" />
+      <edge source="astunparse" target="wheel" id="22" />
+      <edge source="google-pasta" target="six" id="23" />
+      <edge source="grpcio" target="typing_extensions" id="24" />
+      <edge source="h5py" target="numpy" id="25" />
+      <edge source="keras" target="absl-py" id="26" />
+      <edge source="keras" target="h5py" id="27" />
+      <edge source="keras" target="ml_dtypes" id="28" />
+      <edge source="keras" target="namex" id="29" />
+      <edge source="keras" target="numpy" id="30" />
+      <edge source="keras" target="optree" id="31" />
+      <edge source="keras" target="packaging" id="32" />
+      <edge source="keras" target="rich" id="33" />
+      <edge source="ml_dtypes" target="numpy" id="34" />
+      <edge source="optree" target="typing_extensions" id="35" />
+      <edge source="rich" target="markdown-it-py" id="36" />
+      <edge source="rich" target="Pygments" id="37" />
+      <edge source="markdown-it-py" target="mdurl" id="38" />
+      <edge source="requests" target="certifi" id="39" />
+      <edge source="requests" target="charset-normalizer" id="40" />
+      <edge source="requests" target="idna" id="41" />
+      <edge source="requests" target="urllib3" id="42" />
+      <edge source="tensorboard" target="absl-py" id="43" />
+      <edge source="tensorboard" target="grpcio" id="44" />
+      <edge source="tensorboard" target="Markdown" id="45" />
+      <edge source="tensorboard" target="numpy" id="46" />
+      <edge source="tensorboard" target="packaging" id="47" />
+      <edge source="tensorboard" target="pillow" id="48" />
+      <edge source="tensorboard" target="protobuf" id="49" />
+      <edge source="tensorboard" target="setuptools" id="50" />
+      <edge source="tensorboard" target="tensorboard-data-server" id="51" />
+      <edge source="tensorboard" target="Werkzeug" id="52" />
+      <edge source="Werkzeug" target="MarkupSafe" id="53" />
+      <edge source="torch" target="filelock" id="54" />
+      <edge source="torch" target="fsspec" id="55" />
+      <edge source="torch" target="Jinja2" id="56" />
+      <edge source="torch" target="networkx" id="57" />
+      <edge source="torch" target="setuptools" id="58" />
+      <edge source="torch" target="sympy" id="59" />
+      <edge source="torch" target="typing_extensions" id="60" />
+      <edge source="Jinja2" target="MarkupSafe" id="61" />
+      <edge source="sympy" target="mpmath" id="62" />
+    </edges>
+  </graph>
+</gexf>

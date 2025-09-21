@@ -1,0 +1,105 @@
+[
+    {
+        "key": "scikit-image",
+        "package_name": "scikit-image",
+        "installed_version": "0.25.2",
+        "required_version": "0.25.2",
+        "dependencies": [
+            {
+                "key": "imageio",
+                "package_name": "imageio",
+                "installed_version": "2.37.0",
+                "required_version": ">=2.33,!=2.35.0",
+                "dependencies": [
+                    {
+                        "key": "numpy",
+                        "package_name": "numpy",
+                        "installed_version": "2.2.6",
+                        "required_version": "Any",
+                        "dependencies": []
+                    },
+                    {
+                        "key": "pillow",
+                        "package_name": "pillow",
+                        "installed_version": "11.3.0",
+                        "required_version": ">=8.3.2",
+                        "dependencies": []
+                    }
+                ]
+            },
+            {
+                "key": "lazy-loader",
+                "package_name": "lazy_loader",
+                "installed_version": "0.4",
+                "required_version": ">=0.4",
+                "dependencies": [
+                    {
+                        "key": "packaging",
+                        "package_name": "packaging",
+                        "installed_version": "25.0",
+                        "required_version": "Any",
+                        "dependencies": []
+                    }
+                ]
+            },
+            {
+                "key": "networkx",
+                "package_name": "networkx",
+                "installed_version": "3.5",
+                "required_version": ">=3.0",
+                "dependencies": []
+            },
+            {
+                "key": "numpy",
+                "package_name": "numpy",
+                "installed_version": "2.2.6",
+                "required_version": ">=1.24",
+                "dependencies": []
+            },
+            {
+                "key": "packaging",
+                "package_name": "packaging",
+                "installed_version": "25.0",
+                "required_version": ">=21",
+                "dependencies": []
+            },
+            {
+                "key": "pillow",
+                "package_name": "pillow",
+                "installed_version": "11.3.0",
+                "required_version": ">=10.1",
+                "dependencies": []
+            },
+            {
+                "key": "scipy",
+                "package_name": "scipy",
+                "installed_version": "1.16.2",
+                "required_version": ">=1.11.4",
+                "dependencies": [
+                    {
+                        "key": "numpy",
+                        "package_name": "numpy",
+                        "installed_version": "2.2.6",
+                        "required_version": ">=1.25.2,<2.6",
+                        "dependencies": []
+                    }
+                ]
+            },
+            {
+                "key": "tifffile",
+                "package_name": "tifffile",
+                "installed_version": "2025.9.20",
+                "required_version": ">=2022.8.12",
+                "dependencies": [
+                    {
+                        "key": "numpy",
+                        "package_name": "numpy",
+                        "installed_version": "2.2.6",
+                        "required_version": "Any",
+                        "dependencies": []
+                    }
+                ]
+            }
+        ]
+    }
+]

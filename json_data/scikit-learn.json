@@ -1,0 +1,46 @@
+[
+    {
+        "key": "scikit-learn",
+        "package_name": "scikit-learn",
+        "installed_version": "1.7.2",
+        "required_version": "1.7.2",
+        "dependencies": [
+            {
+                "key": "joblib",
+                "package_name": "joblib",
+                "installed_version": "1.5.2",
+                "required_version": ">=1.2.0",
+                "dependencies": []
+            },
+            {
+                "key": "numpy",
+                "package_name": "numpy",
+                "installed_version": "2.2.6",
+                "required_version": ">=1.22.0",
+                "dependencies": []
+            },
+            {
+                "key": "scipy",
+                "package_name": "scipy",
+                "installed_version": "1.16.2",
+                "required_version": ">=1.8.0",
+                "dependencies": [
+                    {
+                        "key": "numpy",
+                        "package_name": "numpy",
+                        "installed_version": "2.2.6",
+                        "required_version": ">=1.25.2,<2.6",
+                        "dependencies": []
+                    }
+                ]
+            },
+            {
+                "key": "threadpoolctl",
+                "package_name": "threadpoolctl",
+                "installed_version": "3.6.0",
+                "required_version": ">=3.1.0",
+                "dependencies": []
+            }
+        ]
+    }
+]

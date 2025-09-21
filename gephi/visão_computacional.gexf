@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-09-21">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="version" type="string" />
+      <attribute id="1" title="is_root" type="boolean" />
+      <attribute id="2" title="ecosystem" type="string" />
+      <attribute id="3" title="tema" type="string" />
+    </attributes>
+    <nodes>
+      <node id="opencv-python" label="opencv-python">
+        <attvalues>
+          <attvalue for="0" value="4.12.0.88" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="opencv-python" />
+          <attvalue for="3" value="Visão Computacional" />
+        </attvalues>
+      </node>
+      <node id="numpy" label="numpy">
+        <attvalues>
+          <attvalue for="0" value="2.2.6" />
+          <attvalue for="2" value="common" />
+          <attvalue for="3" value="Visão Computacional" />
+        </attvalues>
+      </node>
+      <node id="scikit-image" label="scikit-image">
+        <attvalues>
+          <attvalue for="0" value="0.25.2" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="scikit-image" />
+          <attvalue for="3" value="Visão Computacional" />
+        </attvalues>
+      </node>
+      <node id="imageio" label="imageio">
+        <attvalues>
+          <attvalue for="0" value="2.37.0" />
+          <attvalue for="2" value="scikit-image" />
+          <attvalue for="3" value="Visão Computacional" />
+        </attvalues>
+      </node>
+      <node id="pillow" label="pillow">
+        <attvalues>
+          <attvalue for="0" value="11.3.0" />
+          <attvalue for="2" value="common" />
+          <attvalue for="3" value="Visão Computacional" />
+        </attvalues>
+      </node>
+      <node id="lazy_loader" label="lazy_loader">
+        <attvalues>
+          <attvalue for="0" value="0.4" />
+          <attvalue for="2" value="scikit-image" />
+          <attvalue for="3" value="Visão Computacional" />
+        </attvalues>
+      </node>
+      <node id="packaging" label="packaging">
+        <attvalues>
+          <attvalue for="0" value="25.0" />
+          <attvalue for="2" value="scikit-image" />
+          <attvalue for="3" value="Visão Computacional" />
+        </attvalues>
+      </node>
+      <node id="networkx" label="networkx">
+        <attvalues>
+          <attvalue for="0" value="3.5" />
+          <attvalue for="2" value="common" />
+          <attvalue for="3" value="Visão Computacional" />
+        </attvalues>
+      </node>
+      <node id="scipy" label="scipy">
+        <attvalues>
+          <attvalue for="0" value="1.16.2" />
+          <attvalue for="2" value="scikit-image" />
+          <attvalue for="3" value="Visão Computacional" />
+        </attvalues>
+      </node>
+      <node id="tifffile" label="tifffile">
+        <attvalues>
+          <attvalue for="0" value="2025.9.20" />
+          <attvalue for="2" value="scikit-image" />
+          <attvalue for="3" value="Visão Computacional" />
+        </attvalues>
+      </node>
+      <node id="torchvision" label="torchvision">
+        <attvalues>
+          <attvalue for="0" value="0.23.0" />
+          <attvalue for="1" value="true" />
+          <attvalue for="2" value="torchvision" />
+          <attvalue for="3" value="Visão Computacional" />
+        </attvalues>
+      </node>
+      <node id="torch" label="torch">
+        <attvalues>
+          <attvalue for="0" value="2.8.0" />
+          <attvalue for="2" value="torchvision" />
+          <attvalue for="3" value="Visão Computacional" />
+        </attvalues>
+      </node>
+      <node id="filelock" label="filelock">
+        <attvalues>
+          <attvalue for="0" value="3.19.1" />
+          <attvalue for="2" value="torchvision" />
+          <attvalue for="3" value="Visão Computacional" />
+        </attvalues>
+      </node>
+      <node id="fsspec" label="fsspec">
+        <attvalues>
+          <attvalue for="0" value="2025.9.0" />
+          <attvalue for="2" value="torchvision" />
+          <attvalue for="3" value="Visão Computacional" />
+        </attvalues>
+      </node>
+      <node id="Jinja2" label="Jinja2">
+        <attvalues>
+          <attvalue for="0" value="3.1.6" />
+          <attvalue for="2" value="torchvision" />
+          <attvalue for="3" value="Visão Computacional" />
+        </attvalues>
+      </node>
+      <node id="MarkupSafe" label="MarkupSafe">
+        <attvalues>
+          <attvalue for="0" value="3.0.2" />
+          <attvalue for="2" value="torchvision" />
+          <attvalue for="3" value="Visão Computacional" />
+        </attvalues>
+      </node>
+      <node id="setuptools" label="setuptools">
+        <attvalues>
+          <attvalue for="0" value="80.9.0" />
+          <attvalue for="2" value="torchvision" />
+          <attvalue for="3" value="Visão Computacional" />
+        </attvalues>
+      </node>
+      <node id="sympy" label="sympy">
+        <attvalues>
+          <attvalue for="0" value="1.14.0" />
+          <attvalue for="2" value="torchvision" />
+          <attvalue for="3" value="Visão Computacional" />
+        </attvalues>
+      </node>
+      <node id="mpmath" label="mpmath">
+        <attvalues>
+          <attvalue for="0" value="1.3.0" />
+          <attvalue for="2" value="torchvision" />
+          <attvalue for="3" value="Visão Computacional" />
+        </attvalues>
+      </node>
+      <node id="typing_extensions" label="typing_extensions">
+        <attvalues>
+          <attvalue for="0" value="4.15.0" />
+          <attvalue for="2" value="torchvision" />
+          <attvalue for="3" value="Visão Computacional" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="opencv-python" target="numpy" id="0" />
+      <edge source="scikit-image" target="imageio" id="1" />
+      <edge source="scikit-image" target="lazy_loader" id="2" />
+      <edge source="scikit-image" target="networkx" id="3" />
+      <edge source="scikit-image" target="numpy" id="4" />
+      <edge source="scikit-image" target="packaging" id="5" />
+      <edge source="scikit-image" target="pillow" id="6" />
+      <edge source="scikit-image" target="scipy" id="7" />
+      <edge source="scikit-image" target="tifffile" id="8" />
+      <edge source="imageio" target="numpy" id="9" />
+      <edge source="imageio" target="pillow" id="10" />
+      <edge source="lazy_loader" target="packaging" id="11" />
+      <edge source="scipy" target="numpy" id="12" />
+      <edge source="tifffile" target="numpy" id="13" />
+      <edge source="torchvision" target="numpy" id="14" />
+      <edge source="torchvision" target="pillow" id="15" />
+      <edge source="torchvision" target="torch" id="16" />
+      <edge source="torch" target="filelock" id="17" />
+      <edge source="torch" target="fsspec" id="18" />
+      <edge source="torch" target="Jinja2" id="19" />
+      <edge source="torch" target="networkx" id="20" />
+      <edge source="torch" target="setuptools" id="21" />
+      <edge source="torch" target="sympy" id="22" />
+      <edge source="torch" target="typing_extensions" id="23" />
+      <edge source="Jinja2" target="MarkupSafe" id="24" />
+      <edge source="sympy" target="mpmath" id="25" />
+    </edges>
+  </graph>
+</gexf>
