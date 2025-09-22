@@ -115,11 +115,9 @@ pip install -r requirements.txt
 ![Grafo das bibliotecas de visão computacional, colorido por biblioteca](assets/grafos/vc_temas.png)  
 ![Legenda do grafo](assets/legendas/visao_comp.png)
 
-#### Métricas do grafo:
-
 **Métricas:**
-- Nós: 35 | Arestas: 48  
-- Densidade: 0.04 → conexões especializadas  
+- Nós: 20 | Arestas: 26  
+- Densidade: 0.0684 → conexões especializadas  
 - Assortatividade: -0.4758 → rede disassortativa, com principal hub sendo `torch`  
 - Tamanho dos nós baseado no grau   
 
